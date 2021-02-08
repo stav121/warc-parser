@@ -1,0 +1,4 @@
+pg_database: record_database
+pg_user: db_user
+pg_password: db_pass
+pg_host: localhost
