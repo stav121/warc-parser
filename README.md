@@ -1,8 +1,8 @@
 # warc-parser
-![Test warc-parser](https://github.com/unix121/warc-parser/workflows/Test%20warc-parser/badge.svg?branch=main)
-[![codecov](https://codecov.io/gh/unix121/warc-parser/branch/main/graph/badge.svg?token=G6HE8HXI6I)](https://codecov.io/gh/unix121/warc-parser)
-![Commit](https://img.shields.io/github/last-commit/unix121/warc-parser)
-![License](https://img.shields.io/github/license/unix121/warc-parser)
+![Test warc-parser](https://github.com/stav121/warc-parser/workflows/Test%20warc-parser/badge.svg?branch=main)
+[![codecov](https://codecov.io/gh/stav121/warc-parser/branch/main/graph/badge.svg?token=G6HE8HXI6I)](https://codecov.io/gh/unix121/warc-parser)
+![Commit](https://img.shields.io/github/last-commit/stav121/warc-parser)
+![License](https://img.shields.io/github/license/stav121/warc-parser)
 
 WARC/0.18 File metadata parser and indexer.
 
